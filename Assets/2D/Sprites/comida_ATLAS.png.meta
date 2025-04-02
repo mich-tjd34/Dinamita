@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9b75194ea9594684a99bd5643a292c77
+guid: 7dd55f8526583cd4f93e34cf8cef46cf
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -82,6 +82,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -93,30 +106,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 256
-    resizeAlgorithm: 0
-    textureFormat: 12
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 1
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Corazones_Termometro_ATLAS_0
+      name: comida_ATLAS_0
       rect:
         serializedVersion: 2
-        x: 153
-        y: 580
-        width: 318
-        height: 318
+        x: 17
+        y: 687
+        width: 302
+        height: 302
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d33a645ab32819d448a1b373d3e8af43
-      internalID: -738218853
+      spriteID: db499cc5b0e22e8449da7f1b16c6dc11
+      internalID: 1873546759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Corazones_Termometro_ATLAS_1
+      name: comida_ATLAS_1
       rect:
         serializedVersion: 2
-        x: 572
-        y: 574
-        width: 318
-        height: 318
+        x: 337
+        y: 674
+        width: 340
+        height: 340
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bb2b23e46d171d46a6a1fe8bb3a0cc6
-      internalID: -1649603637
+      spriteID: 9bf40944c65915b4d9696fb712575fc5
+      internalID: -1422522135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Corazones_Termometro_ATLAS_2
+      name: comida_ATLAS_2
       rect:
         serializedVersion: 2
         x: 27
-        y: 216
-        width: 916
-        height: 329
+        y: 351
+        width: 302
+        height: 302
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,8 +166,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed222a4e9f7bac6418315062c63e8a3a
-      internalID: 1150256486
+      spriteID: 308a247fb7908e2468d387d594090f47
+      internalID: -527718677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_ATLAS_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 21
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3599d2b7f2a669d4e97414d3c795c1e6
+      internalID: -556304750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_ATLAS_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 687
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbbeea1dd7ca474ebe5d7ad3e45575f
+      internalID: -205433194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_ATLAS_5
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 25
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36320518d0fe2144db4a4b630791bc82
+      internalID: -1994041277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comida_ATLAS_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 347
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f59f17353e74c4c9d0e1fc24e2ad01
+      internalID: 1900449906
       vertices: []
       indices: 
       edges: []
@@ -176,16 +260,20 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Corazones_Termometro_ATLAS_0: -738218853
-      Corazones_Termometro_ATLAS_1: -1649603637
-      Corazones_Termometro_ATLAS_2: 1150256486
+      comida_ATLAS_0: 1873546759
+      comida_ATLAS_1: -1422522135
+      comida_ATLAS_2: -527718677
+      comida_ATLAS_3: -556304750
+      comida_ATLAS_4: -205433194
+      comida_ATLAS_5: -1994041277
+      comida_ATLAS_6: 1900449906
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
