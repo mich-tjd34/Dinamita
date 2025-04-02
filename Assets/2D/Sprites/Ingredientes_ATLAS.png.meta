@@ -108,7 +108,196 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Ingredientes_ATLAS_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 702
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8307014a1b2f841b25f4c7fdaf021e
+      internalID: -1399969942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingredientes_ATLAS_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 683
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a63d1a811d06c64ea415d8b7d62a0cd
+      internalID: 1938650885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingredientes_ATLAS_2
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 679
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcbf3ebb13773b42a2d8baeae5c1b46
+      internalID: 686000810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingredientes_ATLAS_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 344
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796a06fe4f468d14ba4fd12b802ac349
+      internalID: 1970681104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingredientes_ATLAS_4
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 330
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61acc948f740cf42884850ad0c26f0a
+      internalID: 868427672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingredientes_ATLAS_5
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 330
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21de7c22ce28844899615ca4f67d724
+      internalID: 589632146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingredientes_ATLAS_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 34
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b110bdb5bd8b125449c70cf401f80339
+      internalID: -1735117008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingredientes_ATLAS_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 28
+        width: 290
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4122797ea8ff341498c8fc5977ed6f5e
+      internalID: -1505531836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingredientes_ATLAS_8
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 16
+        width: 290
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3666318c53e763f41a7e665d493d0590
+      internalID: 746544315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +308,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ingredientes_ATLAS_0: -1399969942
+      Ingredientes_ATLAS_1: 1938650885
+      Ingredientes_ATLAS_2: 686000810
+      Ingredientes_ATLAS_3: 1970681104
+      Ingredientes_ATLAS_4: 868427672
+      Ingredientes_ATLAS_5: 589632146
+      Ingredientes_ATLAS_6: -1735117008
+      Ingredientes_ATLAS_7: -1505531836
+      Ingredientes_ATLAS_8: 746544315
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
