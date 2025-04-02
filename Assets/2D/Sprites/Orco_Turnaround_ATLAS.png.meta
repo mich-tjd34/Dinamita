@@ -108,18 +108,128 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Orco_Turnaround_ATLAS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 335
+        height: 335
+      alignment: 9
+      pivot: {x: 0.48560864, y: 0.37047812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2ff40e5284bb341ac45c8e32d9d4f8
+      internalID: -1919333582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orco_Turnaround_ATLAS_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 685
+        width: 335
+        height: 335
+      alignment: 9
+      pivot: {x: 0.48560864, y: 0.37047812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a48358e88d301a4cb834a480a83f203
+      internalID: 377436789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orco_Turnaround_ATLAS_2
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 686
+        width: 335
+        height: 335
+      alignment: 9
+      pivot: {x: 0.48560864, y: 0.37047812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9216a1b121591b47a6018f9c9520fbb
+      internalID: 976166064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orco_Turnaround_ATLAS_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 342
+        width: 335
+        height: 335
+      alignment: 9
+      pivot: {x: 0.48560864, y: 0.37047812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cfda835c0fbb44cbcbe3c17a77de83
+      internalID: -1348447348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orco_Turnaround_ATLAS_4
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 346
+        width: 335
+        height: 335
+      alignment: 9
+      pivot: {x: 0.48560864, y: 0.37047812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0dcd534566d6347a1937355b0c0bf5
+      internalID: -275767470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a364acd77a1446a4e90a9e6f2b5cc351
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Orco_Turnaround_ATLAS_0: -1919333582
+      Orco_Turnaround_ATLAS_1: 377436789
+      Orco_Turnaround_ATLAS_2: 976166064
+      Orco_Turnaround_ATLAS_3: -1348447348
+      Orco_Turnaround_ATLAS_4: -275767470
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -108,18 +108,128 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Rana_Turnaround_ATLAS_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 698
+        width: 309
+        height: 309
+      alignment: 9
+      pivot: {x: 0.5744643, y: 0.3228264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8a3e0f1d72de542af905a7edf54fe7
+      internalID: 1539442782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rana_Turnaround_ATLAS_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 697
+        width: 309
+        height: 309
+      alignment: 9
+      pivot: {x: 0.51797414, y: 0.2894457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f919527697c54fd49adcb6e29894d153
+      internalID: -1002136122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rana_Turnaround_ATLAS_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 698
+        width: 309
+        height: 309
+      alignment: 9
+      pivot: {x: 0.40499395, y: 0.3664778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a9b9355f7d1504ea855537056398da
+      internalID: 1460350488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rana_Turnaround_ATLAS_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 348
+        width: 309
+        height: 309
+      alignment: 9
+      pivot: {x: 0.55905795, y: 0.26633608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b74615071f25f4188a880c41edae68
+      internalID: -497463025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rana_Turnaround_ATLAS_4
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 349
+        width: 309
+        height: 309
+      alignment: 9
+      pivot: {x: 0.3895874, y: 0.23552312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a28752d9f986f34085b4ece63abdeff
+      internalID: 2090152314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: de194dc8685b23444acf7e6d29aac920
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rana_Turnaround_ATLAS_0: 1539442782
+      Rana_Turnaround_ATLAS_1: -1002136122
+      Rana_Turnaround_ATLAS_2: 1460350488
+      Rana_Turnaround_ATLAS_3: -497463025
+      Rana_Turnaround_ATLAS_4: 2090152314
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -108,18 +108,84 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Particulas_Atlas_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 265
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf04e16cba5a12548a6baf5f597fa608
+      internalID: 114453673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particulas_Atlas_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 274
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e2080e116eb4d43bd1a17a5da736dc
+      internalID: -368384156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Particulas_Atlas_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 22
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a340ccc2f4cbf5488b128410ea37971
+      internalID: -7827008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c9f85159938313d468465ae7a88e0834
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Particulas_Atlas_Sprites_0: 114453673
+      Particulas_Atlas_Sprites_1: -368384156
+      Particulas_Atlas_Sprites_2: -7827008
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
