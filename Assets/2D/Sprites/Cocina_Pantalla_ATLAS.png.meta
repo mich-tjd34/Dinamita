@@ -108,18 +108,150 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Cocina_Pantalla_ATLAS_0
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 886
+        width: 802
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abd1def5f5ad4448b43ec431196012f
+      internalID: -2064527830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocina_Pantalla_ATLAS_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1294
+        width: 1346
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801f8c76fea20184cb08c53ef135e847
+      internalID: -1177252572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocina_Pantalla_ATLAS_2
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 501
+        width: 1175
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a267d3ff7c09a541819f1fa8038436d
+      internalID: 1068880008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocina_Pantalla_ATLAS_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 26
+        width: 1529
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a03025eec38d645921e6cef0bd1c98
+      internalID: -1025787434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocina_Pantalla_ATLAS_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 907
+        width: 354
+        height: 354
+      alignment: 9
+      pivot: {x: 0.53648204, y: 0.31029344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9425123ed42ec54e948a4c53d0562a8
+      internalID: 1395131901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocina_Pantalla_ATLAS_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 907
+        width: 354
+        height: 354
+      alignment: 9
+      pivot: {x: 0.49270338, y: 0.2665152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc939522230fa0445afbf0d6f7b61644
+      internalID: -1700964211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2c2ed38f3d0bb884d9044084fd30239b
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cocina_Pantalla_ATLAS_0: -2064527830
+      Cocina_Pantalla_ATLAS_1: -1177252572
+      Cocina_Pantalla_ATLAS_2: 1068880008
+      Cocina_Pantalla_ATLAS_3: -1025787434
+      Cocina_Pantalla_ATLAS_4: 1395131901
+      Cocina_Pantalla_ATLAS_5: -1700964211
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
