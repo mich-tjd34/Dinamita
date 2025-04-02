@@ -108,18 +108,194 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Arboles_Flores_ATLAS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 506
+        height: 506
+      alignment: 9
+      pivot: {x: 0.49759507, y: 0.20660327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a446922c5d17d6f4f965de51c7cca1c2
+      internalID: 596747480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles_Flores_ATLAS_1
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 492
+        width: 506
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6d7eb93ec8b8f47a15d21ba75a00ef
+      internalID: -2042019392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles_Flores_ATLAS_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 236
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c705f0ee8843147b772986d080e399
+      internalID: -1824284209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles_Flores_ATLAS_3
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 235
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747cc7c82271efd4493de07c9bd0e369
+      internalID: 1690735364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles_Flores_ATLAS_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 240
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20667928bfd741a4fa13bded2a4f8a99
+      internalID: 2060824568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles_Flores_ATLAS_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 53
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da14c039a7915946906bba6f8929e21
+      internalID: -1213558471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles_Flores_ATLAS_6
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 51
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1b04a0283a9bf4d973e3dd0dbb6667
+      internalID: 163730524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles_Flores_ATLAS_7
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 51
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463b54396f96b1a4e948262865bb1cb7
+      internalID: -387301950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: dac2c38a28e07ca4ea83246fd4aa632f
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Arboles_Flores_ATLAS_0: 596747480
+      Arboles_Flores_ATLAS_1: -2042019392
+      Arboles_Flores_ATLAS_2: -1824284209
+      Arboles_Flores_ATLAS_3: 1690735364
+      Arboles_Flores_ATLAS_4: -1982809212
+      Arboles_Flores_ATLAS_5: 2060824568
+      Arboles_Flores_ATLAS_6: -1213558471
+      Arboles_Flores_ATLAS_7: 163730524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
