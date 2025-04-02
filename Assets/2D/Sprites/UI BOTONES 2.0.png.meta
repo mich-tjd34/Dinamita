@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -37,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -52,9 +52,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -95,31 +95,361 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Server
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 12
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: UI BOTONES 2.0_0
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1450
+        width: 873
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e96837df333761469fa83268394689f
+      internalID: 891801294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI BOTONES 2.0_1
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1708
+        width: 499
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e6bbc890343794b84aadd5342bbdd2
+      internalID: 1363218326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI BOTONES 2.0_2
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1709
+        width: 282
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a3efc17543e6a45ac6945346613f4d
+      internalID: 1966409362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI BOTONES 2.0_3
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1238
+        width: 297
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acd3135e5c23f64a9f4a482babaee3c
+      internalID: 1351107704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI BOTONES 2.0_4
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1222
+        width: 579
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aa3611a967c8e4d88387e64d12a729
+      internalID: -1591957224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI BOTONES 2.0_5
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 882
+        width: 263
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4610b0333fb77248bb8a7e63745fefb
+      internalID: -1195688997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI BOTONES 2.0_6
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 869
+        width: 280
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462bf7147023529459e07fec336f4501
+      internalID: -428860855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI BOTONES 2.0_7
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 865
+        width: 310
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2221043ed78da741873f9ae0dae96cf
+      internalID: -133224699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI BOTONES 2.0_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1715
+        width: 410
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1707b3d9225685743a48ca3a1da96ba4
+      internalID: 1712055329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI BOTONES 2.0_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1133
+        width: 730
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d351c7d4424f644db3b72ace5620617
+      internalID: 591864174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI BOTONES 2.0_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 575
+        width: 747
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1068c1c9756e22d4daa970d3d1471a83
+      internalID: -1132694226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI BOTONES 2.0_11
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 651
+        width: 891
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f00b1dbcc4dc542a5dc048831cea8d
+      internalID: -1831305533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI BOTONES 2.0_12
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1752
+        width: 182
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a514ec0d05f7a6e4fbb29ebaf158923a
+      internalID: 112803262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI BOTONES 2.0_13
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1753
+        width: 176
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447f1b20afad59144a7be7e64f172456
+      internalID: 1438896798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI BOTONES 2.0_14
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1752
+        width: 186
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aa0be38fb9a2e4e9fd2307ef365053
+      internalID: -1333887531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UI BOTONES 2.0_0: 891801294
+      UI BOTONES 2.0_1: 1363218326
+      UI BOTONES 2.0_10: 1712055329
+      UI BOTONES 2.0_11: 1399770432
+      UI BOTONES 2.0_12: 591864174
+      UI BOTONES 2.0_13: -1132694226
+      UI BOTONES 2.0_14: -1831305533
+      UI BOTONES 2.0_2: 1966409362
+      UI BOTONES 2.0_3: 1351107704
+      UI BOTONES 2.0_4: -1591957224
+      UI BOTONES 2.0_5: -31985320
+      UI BOTONES 2.0_6: -1195688997
+      UI BOTONES 2.0_7: -1956293585
+      UI BOTONES 2.0_8: -428860855
+      UI BOTONES 2.0_9: -133224699
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

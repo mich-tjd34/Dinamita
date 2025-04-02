@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -37,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -52,9 +52,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -95,31 +95,141 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Server
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 12
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Mago_Turnaround_ATLAS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 327
+        height: 327
+      alignment: 9
+      pivot: {x: 0.45906538, y: 0.34370407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ca8284536f95649b89e567db4813f8
+      internalID: 452328125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago_Turnaround_ATLAS_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 690
+        width: 327
+        height: 327
+      alignment: 9
+      pivot: {x: 0.49999982, y: 0.33626133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d8624ee6f353043a8a28a810040be0
+      internalID: -618324097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago_Turnaround_ATLAS_2
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 693
+        width: 327
+        height: 327
+      alignment: 9
+      pivot: {x: 0.49255708, y: 0.30649075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a12777bc4b3bcb4d822db041a08f5a8
+      internalID: -1642760714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago_Turnaround_ATLAS_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 327
+        height: 327
+      alignment: 9
+      pivot: {x: 0.46650803, y: 0.2990482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ded2ce66cb880849b7ec28859f2723d
+      internalID: -378092717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago_Turnaround_ATLAS_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 358
+        width: 327
+        height: 327
+      alignment: 9
+      pivot: {x: 0.51860636, y: 0.3102121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2798207d8cdbd4087525871f9f518d
+      internalID: 1960096106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7569dec6cae54d546b3d10d2dc63612a
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mago_Turnaround_ATLAS_0: 452328125
+      Mago_Turnaround_ATLAS_1: -618324097
+      Mago_Turnaround_ATLAS_2: -1642760714
+      Mago_Turnaround_ATLAS_3: -378092717
+      Mago_Turnaround_ATLAS_4: 1960096106
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
