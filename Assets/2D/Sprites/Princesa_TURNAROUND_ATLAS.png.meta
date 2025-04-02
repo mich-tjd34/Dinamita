@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -37,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -52,9 +52,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -95,31 +95,141 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Server
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 29
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 0
+    overridden: 1
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Princesa_TURNAROUND_ATLAS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 681
+        width: 340
+        height: 340
+      alignment: 9
+      pivot: {x: 0.4538794, y: 0.14522594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca1bdee4a404f948995500f73363251
+      internalID: 2032443845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Princesa_TURNAROUND_ATLAS_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 340
+        height: 340
+      alignment: 9
+      pivot: {x: 0.4538794, y: 0.14522594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb9b8bf4ebf3d74aaf25706c87141cd
+      internalID: -731081391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Princesa_TURNAROUND_ATLAS_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 684
+        width: 340
+        height: 340
+      alignment: 9
+      pivot: {x: 0.4538794, y: 0.14522594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39acd41d5bdb38b419b600e3ff79848a
+      internalID: -811975632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Princesa_TURNAROUND_ATLAS_3
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 342
+        width: 340
+        height: 340
+      alignment: 9
+      pivot: {x: 0.4538794, y: 0.14522594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1f9db467e38b44b9b50f8e96c01a45
+      internalID: -1496106920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Princesa_TURNAROUND_ATLAS_4
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 684
+        width: 340
+        height: 340
+      alignment: 9
+      pivot: {x: 0.4538794, y: 0.14522594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdb967dd80cb134691e88d52da9552f
+      internalID: 775646378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0427f617bb28e5e4e882fbbda4d25b73
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Princesa_TURNAROUND_ATLAS_0: 2032443845
+      Princesa_TURNAROUND_ATLAS_1: -731081391
+      Princesa_TURNAROUND_ATLAS_2: -811975632
+      Princesa_TURNAROUND_ATLAS_3: -1496106920
+      Princesa_TURNAROUND_ATLAS_4: 775646378
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
